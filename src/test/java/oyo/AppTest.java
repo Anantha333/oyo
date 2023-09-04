@@ -1,7 +1,7 @@
 package oyo;
 
 import static org.junit.Assert.assertTrue;
-this is a job
+
 import org.junit.Test;
 
 /**
